@@ -1,0 +1,23 @@
+@media (min-width:320px) and (max-width:767px){ 
+
+    .abt-img{
+        width: 40%;
+    }
+
+    .abt-1 p{
+        width: 85%;
+    }
+
+    .lng-2 {
+        margin: 0px;
+    }
+
+    .product_card{
+        width: 80%;
+    }
+
+    .contact-col {
+        flex-basis: 80%;
+    }
+
+}
